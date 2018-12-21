@@ -1,5 +1,5 @@
 # App Weather API with React-Native Android
-![Scan Disini](https://github.com/frankzealot/weatherwidget/blob/master/qr.png)
+![Scan Disini]<img src='qr.PNG'>
 
 Scan QR Code diatas atau klik [SNACK.IO] https://snack.expo.io/@frankzealot/weatherwidget
 
