@@ -1,4 +1,5 @@
-# App Weather API with React-Native Android
+# TUGASMOBILE2
+Tugas Pemrograman Mobile (Aplikasi Weather Dinamis)
 [Scan Disini]<br>
 <img src='qr.png'>
 
